@@ -1,0 +1,74 @@
+
+ .bg{
+	 width:94%;
+	 height:520px;
+	 background-repeat:no-repeat;
+	 background-size: cover; 
+	 background-position: center center;
+	 border-radius:10px;
+	 margin-left:3%;
+
+ }
+ .card-body{
+	
+	 background:#fff;
+	 width:80%px;
+	 height:420px;
+	 margin:40px;
+	 border-radius:10px;
+	 box-shadow:0px 0px 10px 0px #0C0036 ;
+}
+
+
+.icon{
+
+     margin-left:30px;
+     margin-bottom: 10px; 
+    font-size: 60px;
+    color:blue;
+
+   
+    
+}
+
+.register-form{
+	 
+	 background:#fff;
+	 width:700px;
+	 padding:50px;
+	 margin:80px;
+	 margin-left:160px;
+	 border-radius:10px;
+	 box-shadow:0px 0px 40px 0px #000000;
+ }
+ .login-form{
+	 background:#fff;
+	 width:460px;
+	 padding:50px;
+	 margin:80px;
+	 margin-left:200px;
+	 border-radius:10px;
+	 box-shadow:0px 0px 40px 0px #0C0036 ;
+ }
+.create{
+background:#fff;
+
+	 padding:40px;
+
+
+	 border-radius:10px;
+	 box-shadow:0px 0px 40px 0px #0C0036 ;
+ }
+	
+.bg1{
+	 width:100%;
+	 height:810px;
+	 background-repeat:no-repeat;
+	 background-size: cover; 
+	 background-position: center center;
+}
+
+.card{
+    margin:40px;
+
+}
